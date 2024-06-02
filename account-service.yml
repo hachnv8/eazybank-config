@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 account:
-  message: "Welcome to Eazybank account related to local API."
+  message: "Welcome to Eazybank account related to prod API."
   contactDetails:
     name: "John Doe"
     email: "{cipher}8dc0ac8ab43dded0d5cbcbe77845c05495c0d895de7a79f289ab493ee9a2b27c7125e912bb672ee2c2636fed558f024b"
